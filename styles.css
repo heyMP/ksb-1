@@ -13,3 +13,9 @@
 	background-size: cover;
 	background-position: center 20%;
 } 
+
+#matt-mayer .banner-overlay {
+	background: url('./images/matt-mayer.jpg');
+	background-size: cover;
+	background-position: center 20%;
+} 
